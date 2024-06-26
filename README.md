@@ -5,8 +5,27 @@ A collection of awesome Wake tests including links to guides and more.
 
 ## Tests from
 
+### Benchmarking Wake performance
+- [Python Testing Frameworks Benchmark](https://github.com/Ackee-Blockchain/python-testing-frameworks-benchmark)
+
+
 ### Public Audits
 - [Lido Stonks](https://github.com/Ackee-Blockchain/tests-lido-stonks)
+- [Lido Simple Delegation](https://github.com/Ackee-Blockchain/tests-lido-simple-delegation)
+- [Axelar Interchain Token Service](https://github.com/Ackee-Blockchain/tests-axelar-interchain-token-service)
+- [IPOR](https://github.com/Ackee-Blockchain/tests-ipor)
+- [Solady](https://github.com/Ackee-Blockchain/tests-solady)
+- [Composable Cow](https://github.com/Ackee-Blockchain/tests-composable-cow)
+- [Axelar Interchain Governance Executor](https://github.com/Ackee-Blockchain/tests-axelar-interchain-governance-executor)
+- [Axelar Governance](https://github.com/Ackee-Blockchain/tests-axelar-governance)
 
+### Workshops
+- [Ethereum Zurich 2023](https://github.com/Ackee-Blockchain/ethereumzurich-2023-workshop-testing)
 
-### Ethernaut in Wake
+### Czech Technical University CTU Prague
+- [NIE-BLO Echidna](https://github.com/Ackee-Blockchain/NIE-BLO-echidna)
+- [NIE-BLO Tutorial 8](https://github.com/Ackee-Blockchain/NIE-BLO-tutorial-8)
+  
+### Reentrancy
+
+### Ethernaut
