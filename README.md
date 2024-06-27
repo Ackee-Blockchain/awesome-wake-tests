@@ -23,6 +23,9 @@ A collection of awesome Wake tests including links to guides and more.
 
 ### Workshops
 - [Ethereum Zurich 2023](https://github.com/Ackee-Blockchain/ethereumzurich-2023-workshop-testing)
+- [Ethereum Zurich 2024: Fuzz testing Lido Stonks](https://github.com/Ackee-Blockchain/workshop-ethereumzurich-fuzzing) - [Workshop Video recording](https://www.youtube.com/watch?v=GZTWKxgmGM8)
+
+
 
 ### Czech Technical University CTU Prague
 - [NIE-BLO Echidna](https://github.com/Ackee-Blockchain/NIE-BLO-echidna)
