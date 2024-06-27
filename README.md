@@ -21,16 +21,22 @@ A collection of awesome Wake tests including links to guides and more.
 - [Rhinestone Modulekit Examples](https://github.com/Ackee-Blockchain/tests-rhinestone-modulekit-examples)
 - [Rhinestone Registry](https://github.com/Ackee-Blockchain/tests-rhinestone-registry)
 
+### ERC-20 testing suite
+- [ERC-20](https://github.com/Ackee-Blockchain/wake-tests/)
+
+### ERC-4337 Detector
+- [ERC-4337](https://ackee.xyz/blog/wake-erc-4337-detector/)
+
 ### Workshops
 - [Ethereum Zurich 2023](https://github.com/Ackee-Blockchain/ethereumzurich-2023-workshop-testing)
 - [Ethereum Zurich 2024: Fuzz testing Lido Stonks](https://github.com/Ackee-Blockchain/workshop-ethereumzurich-fuzzing) - [Workshop Video recording](https://www.youtube.com/watch?v=GZTWKxgmGM8)
-
-
 
 ### Czech Technical University CTU Prague
 - [NIE-BLO Echidna](https://github.com/Ackee-Blockchain/NIE-BLO-echidna)
 - [NIE-BLO Tutorial 8](https://github.com/Ackee-Blockchain/NIE-BLO-tutorial-8)
   
 ### Reentrancy
+- [Single Function Reentrancy](https://github.com/Ackee-Blockchain/reentrancy-examples/tree/master/contracts/single-function-reentrancy) - [Guide](https://ackee.xyz/blog/single-function-reentrancy-attack/) 
 
 ### Ethernaut
+- [Ethernaut in Wake (31 tests)](https://github.com/Ackee-Blockchain/wake-ethernaut)
