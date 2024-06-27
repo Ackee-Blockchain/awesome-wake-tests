@@ -24,9 +24,6 @@ A collection of awesome Wake tests including links to guides and more.
 ### ERC-20 testing suite
 - [ERC-20](https://github.com/Ackee-Blockchain/wake-tests/)
 
-### ERC-4337 Detector
-- [ERC-4337](https://ackee.xyz/blog/wake-erc-4337-detector/)
-
 ### Workshops
 - [Ethereum Zurich 2023](https://github.com/Ackee-Blockchain/ethereumzurich-2023-workshop-testing)
 - [Ethereum Zurich 2024: Fuzz testing Lido Stonks](https://github.com/Ackee-Blockchain/workshop-ethereumzurich-fuzzing) - [Workshop Video recording](https://www.youtube.com/watch?v=GZTWKxgmGM8)
