@@ -10,6 +10,7 @@ A collection of awesome Wake tests including links to guides and more.
 
 ### Public Audits
 - [Lido Stonks](https://github.com/Ackee-Blockchain/tests-lido-stonks)
+- [Lido StETH on Optimism](https://github.com/Ackee-Blockchain/tests-lido-steth-optimism)
 - [Lido Simple Delegation](https://github.com/Ackee-Blockchain/tests-lido-simple-delegation)
 - [Axelar Interchain Token Service](https://github.com/Ackee-Blockchain/tests-axelar-interchain-token-service)
 - [Axelar Interchain Governance Executor](https://github.com/Ackee-Blockchain/tests-axelar-interchain-governance-executor)
