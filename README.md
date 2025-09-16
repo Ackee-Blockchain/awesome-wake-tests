@@ -9,6 +9,7 @@ A collection of awesome Wake tests including links to guides and more.
 - [Python Testing Frameworks Benchmark](https://github.com/Ackee-Blockchain/python-testing-frameworks-benchmark)
 
 ### Public Audits
+- [Aave Umbrella](https://github.com/Ackee-Blockchain/tests-aave-umbrella)
 - [Lido Community Staking Module & Staking Router](https://github.com/Ackee-Blockchain/tests-lido-csm)
 - [Lido Stonks](https://github.com/Ackee-Blockchain/tests-lido-stonks)
 - [Lido StETH on Optimism](https://github.com/Ackee-Blockchain/tests-lido-steth-optimism)
